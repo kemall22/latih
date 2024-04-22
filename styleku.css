@@ -1,0 +1,14 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 1800px;
+    text-align: center;
+    color: black;
+    position: fixed;
+}
+footer{
+    position: fixed;
+    padding: 20px;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}

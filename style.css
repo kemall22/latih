@@ -1,0 +1,15 @@
+body{
+  background-image: url('rumput.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+nav {
+    padding: 8px 16px;
+    border-radius: 4px;
+    color: white;
+    text-decoration: none;
+    background-color:khaki;
+    font-size: x-large;
+  }
+
+

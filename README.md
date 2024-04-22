@@ -1,0 +1,2 @@
+# latih
+latihan menggunakan github
